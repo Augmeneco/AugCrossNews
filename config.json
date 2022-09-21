@@ -1,0 +1,8 @@
+{
+"tg_token": "токен тг бота без 'bot'",
+"target_channel": "@cha14ka_news",
+"cooldown": 120,
+"blacklist": [],
+
+"vk_token": "токен вк"
+} 
